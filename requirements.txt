@@ -1,0 +1,11 @@
+streamlit
+requests
+python-dotenv
+python-docx
+PyPDF2
+langchain-google-genai
+langchain-core
+pydantic<2
+google-generativeai
+python-pptx
+youtube-transcript-api
