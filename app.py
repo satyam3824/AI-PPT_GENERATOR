@@ -247,11 +247,11 @@ def create_pptx_file(slides_data, theme_style="Default"): # Added theme_style pa
     elif theme_style == "Minimalist":
         template_filename = "minimalist_template.pptx"
     elif theme_style == "Organic":
-        template_filename = "organic.pptx"
+        template_filename = "Organic.pptx"
     elif theme_style == "Tech Design":
-        template_filename = "tech design.pptx"
+        template_filename = "Tech design.pptx"
     elif theme_style == "Basic":
-        template_filename = "basic.pptx" # Assuming basic.pptx is the primary basic template
+        template_filename = "Basic.pptx" # Assuming basic.pptx is the primary basic template
     else: # Default theme
         template_filename = None # No specific template, will use blank presentation
 
